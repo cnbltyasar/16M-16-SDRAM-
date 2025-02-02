@@ -328,7 +328,7 @@ This SDRAM controller is written in VHDL and provides a 32-bit synchronous inter
     <li><strong>Handling periodic refresh cycles</strong> to maintain data integrity.</li>
   </ul>
   <p>By abstracting these low-level details, the controller allows a higher-level system to perform memory accesses using simple request/acknowledge signaling without dealing with the intricate SDRAM timing and command sequences.</p>
-  <p>Feel free to customize and expand upon this explanation as needed for your project documentation!</p>
+
 </body>
 </html>
 
